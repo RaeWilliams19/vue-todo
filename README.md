@@ -1,4 +1,6 @@
-# test
+# Vue Todo
+A basic todo app created by following the steps from Traversy Media's Vue crash course. This is still in progress as I plan to make changes and implement new feature in order to further understanding of the framework.
+
 
 ## Project setup
 ```
@@ -25,5 +27,3 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
