@@ -1,5 +1,5 @@
 # Vue Todo
-A basic todo app created by following the steps from Traversy Media's Vue crash course. This is still in progress as I plan to make changes and implement new feature in order to further understanding of the framework.
+A basic todo app created by following the steps from Traversy Media's Vue crash course. This is still in progress as I plan to make changes and implement new features in order to further understanding of the framework.
 
 
 ## Project setup
